@@ -15,12 +15,14 @@
 ---
 
 ## 🖥️ Demonstração
-
+![move.it](https://i.imgur.com/rDbApOP.png)
 
 ---
 
 ## 🔖 Layout
+Você pode ver o layout desenvolvido por **Tiago Luchtenberg** clicando **[aqui](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0)**.
 
+É necessário ter uma conta no [Figma](http://figma.com/) para acessar o layout.
 
 ---
 
