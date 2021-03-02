@@ -8,7 +8,9 @@
 ---
 
 ## 🚀 Tecnologias e ferramentas utilizadas
-
+- **[ReactJS](https://reactjs.org/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[Next.js](https://nextjs.org/)**
 
 ---
 
