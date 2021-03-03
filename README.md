@@ -27,7 +27,23 @@ Você pode ver o layout desenvolvido por **Tiago Luchtenberg** clicando **[aqui]
 ---
 
 ## 🔧 Como executar o projeto
+### Requisitos:
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/)
 
+```bash
+# Clone o repositório
+git clone https://github.com/devMagno/move.it.git
+
+# Entre no diretório
+cd moveit
+
+# Baixe as dependências de desenvolvimento
+yarn
+
+# Execute o servidor
+yarn dev
+```
 
 ---
 
