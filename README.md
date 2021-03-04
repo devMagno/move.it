@@ -1,9 +1,12 @@
-# move.it 🏃
+<h1>move.it 🏃</h1>
 <p align="center">
 	<img src="https://i.imgur.com/QGknJd8.png" alt="move.it" title="move.it">
 </p>
 
 ## 📖 Sobre 
+<p>
+O projeto <b>move.it</b> foi desenvolvido durante a trilha de React.js da <b>Next Level Week #4</b>, realizada pela <b><a href="https://github.com/rocketseat">Rocketseat</a></b> durante os dias 22 e 28 de fevereiro de 2021. O <b>move.it</b> é um app que utiliza a metodologia <b>pomodoro</b> para cronometrar o tempo e, ao final de cada ciclo, a aplicação dá ao usuário um pequeno desafio para que este possa <b>se alongar</b>, além de <b>exercitar seu corpo e seus olhos</b>, essencial para <b>programadores</b> e pessoas que passam horas em frente ao computador. Ao concluir desafios, o usuário ganha <b>experiência</b>, alcançando sempre o <b>próximo nível</b>.
+</p>
 
 ---
 
